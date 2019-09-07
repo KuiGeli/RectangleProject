@@ -21,7 +21,7 @@ public class Main {
             userInput.next();
         }
         int length = userInput.nextInt();
-//asdasdasdasdasdasdasdasdasdasdasdasdasdasdsadsadsadsad
+
        Rectangle r = new Rectangle(height, length);
         System.out.println(r.rectangleArea());
 
